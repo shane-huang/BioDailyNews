@@ -72,6 +72,8 @@ Create `news_data.json` in the date folder following the template structure from
 
 - Each section MUST have both `stories` (≥5) and `china` (≥2) arrays
 - China market stories focus on Chinese biotech companies, NMPA approvals, local M&A/financing
+- **Sector 3 (Financing):**【中国市场特别关注】must prioritize Chinese domestic VC/PE primary market fundraising news (e.g., biotech startup Series A/B/C rounds led by domestic VCs, RMB fund closes, local biotech venture financing)
+- For Sector 3 China stories, actively search Chinese-language sources (36kr, 动脉网, 医药魔方, etc.) for domestic biotech funding rounds
 - Include source attribution and dates in story content
 
 ### Step 3: Generate Word Document
